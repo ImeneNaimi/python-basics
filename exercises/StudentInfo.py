@@ -1,0 +1,7 @@
+name=input("What's you name ")
+age=int(input("What's your age "))
+major=input("What's your major ")
+print("Student:")
+print("Name: ",name)
+print("Age: ",age)
+print("Major: ",major)
